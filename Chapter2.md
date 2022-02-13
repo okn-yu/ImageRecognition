@@ -57,3 +57,6 @@
 * 周囲の状況とは異なる小領域をブロブと呼ぶ
 * ブロブ検出器として、LoGフィルタ、DoGフィルタ、DoH（ヘッシアンフィルタの行列式）を用いる手法がある
 
+#### メモ
+* ブロブ検出器の実装としては例えばskimageの以下が参考になる
+* https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_blob.html#sphx-glr-auto-examples-features-detection-plot-blob-pygit
